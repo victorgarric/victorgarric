@@ -1,5 +1,10 @@
-### Hi there 👋
+### Victor Garric 🐍⚛☢
 
+ - I'm from Paris / France
+ - I am a researcher in Metallurgy for Nuclear Safety
+ - I also am a Python developper of very edgy scientific codes
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=victorgarric&theme=radical)
 <!--
 **victorgarric/victorgarric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
